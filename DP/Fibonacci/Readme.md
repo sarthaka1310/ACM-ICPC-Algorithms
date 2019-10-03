@@ -1,6 +1,9 @@
 # Fibonacci Sequence
 
-In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones.
+In mathematics, the Fibonacci numbers are the numbers in the following integer sequence, called the Fibonacci sequence, and characterized by the fact that every number after the first two is the sum of the two preceding ones.The Fibonacci pattern is also found in the musical scale. Again this does not make it important. It's simply something that exists as a number pattern that may or may not have deeper significance. At this stage, the Fibonacci sequence and spiral seems to be a natural feature in many areas of life. It's up to researchers to discover how and where it can be applied.
+
+A simple astronomical fact is that the mean tropical year of 365.242 days divided by the Fibonacci ratio 13/8 equals 224.7 days - the orbit of Venus. What beautiful precision! Astronomers never mention this, but astrologers love this fact because Venus rules aesthetics and beauty - the popular attributes of the golden ratio.For relation between Golden Ratio and Fibonacci click on
+https://www.mathsisfun.com/numbers/fibonacci-sequence.html
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/d9941f4184ea7677a056402b98d8b741af937f80)
 
